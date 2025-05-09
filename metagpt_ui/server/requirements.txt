@@ -1,0 +1,6 @@
+fastapi>=0.95.0
+uvicorn>=0.21.1
+python-socketio>=5.8.0
+pydantic>=1.10.7
+websockets>=11.0.2
+python-dotenv>=1.0.0
